@@ -14,5 +14,5 @@ To use a component, simply clone the repository and include the desired componen
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/webdev-components.git
+git clone https://github.com/allaboutraj/WebDevComponents
 cd webdev-components
